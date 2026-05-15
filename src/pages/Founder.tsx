@@ -12,10 +12,10 @@ const Founder: React.FC = () => {
           className="sticky top-40 aspect-[3/4] overflow-hidden bg-[#111]"
         >
           <img 
-            src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=1200&auto=format&fit=crop" 
-            alt="Founder 未山"
-            className="w-full h-full object-cover grayscale opacity-60 hover:opacity-100 transition-all duration-1000"
-          />
+           src="/images/weishan.png" 
+  
+                 className="w-full h-full object-cover grayscale opacity-60 hover:opacity-100 transition-all duration-1000"
+/>
           <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" />
         </motion.div>
 
